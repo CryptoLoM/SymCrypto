@@ -1,2 +1,2 @@
-# SymCrypto
-symmetric cryptography
+# Symmetric Cryptography
+
